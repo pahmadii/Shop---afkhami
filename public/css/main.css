@@ -1,0 +1,16 @@
+@font-face {
+    font-family:Far_Nazanin ;
+    src: url(../fonts//Far_Nazanin.ttf)
+}
+*{
+box-sizing: border-box;
+font-family: Far_Nazanin;
+}
+body{
+    font-size: 16px;
+    margin: 0;
+    direction: rtl;
+}
+a{
+    text-decoration: none;
+}
